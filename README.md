@@ -21,7 +21,7 @@ This project was developed with the following technologies:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projct
+## 💻 Project
 
 Be The hero is a project developed at Omnistack Week 11.1, with the purpose of shortening the distance between heroes and institutions that need donations.
 
