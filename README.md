@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="Git/be-the-hero.png" width="100%">
+  <img alt="Screen" src="Git/be-the-hero.png" width="100%">
 </p>
 
 ## :rocket: Technologies
@@ -27,5 +27,5 @@ Be The hero is a project developed at Omnistack Week 11.1, with the purpose of s
 
 ## :checkered_flag: Certificate
 
-[embed]Git/certificado.pdf[/embed]
+<img alt="Certificate" src="Git/certificado.png" width="100%">
 
